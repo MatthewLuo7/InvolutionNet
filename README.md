@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repository is our 3rd place work in [the 59th IEEE/ACM Design Automation Conference System Design Contest](https://byuccl.github.io/dac_sdc_2022/results/). A fully-pipelined FPGA accelerator for object detection CNN is designed in Vivado High-Level Synthesis. The design is deployed on an embedded FPGA, Ultra96-V2, and is evaluated according to its inference speed, energy consumption and prediction accuracy. The final result of the contest was announced at the 59th IEEE/ACM Design Automation Conference, Los Angeles, USA.
+This repository is our 3rd place work in [the 59th IEEE/ACM Design Automation Conference System Design Contest](https://byuccl.github.io/dac_sdc_2022/results/). A fully-pipelined FPGA accelerator for object detection CNN is designed in Vivado High-Level Synthesis. The design is deployed on an embedded FPGA, Ultra96-V2, and is evaluated according to its inference speed, energy consumption and prediction accuracy. The final result of the contest was announced at the 59th IEEE/ACM Design Automation Conference, San Francisco, USA.
 
 ## Team Members
 
