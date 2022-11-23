@@ -6,9 +6,9 @@ This repository is our 3rd place work in [the 59th IEEE/ACM Design Automation Co
 
 ## Team Members
 
-> Haitong Huang, State Key Lab of Processors, Institute of Computing Technology, Chinese Academy of Sciences
-> Erjing Luo, School of Information and Electronics, Beijing Institute of Technology
-> Cangyuan Li, Center for Intelligent Computing Systems, Institute of Computing Technology, Chinese Academy of Sciences
+- Haitong Huang, State Key Lab of Processors, Institute of Computing Technology, Chinese Academy of Sciences
+- Erjing Luo, School of Information and Electronics, Beijing Institute of Technology
+- Cangyuan Li, Center for Intelligent Computing Systems, Institute of Computing Technology, Chinese Academy of Sciences
 
 ## Repository Organization
 - deploy: the deployment files on Ultra96-V2
